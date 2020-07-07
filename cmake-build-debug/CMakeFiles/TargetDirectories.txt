@@ -1,0 +1,3 @@
+E:/universe/INFa/cpp/Masha/bunker/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/universe/INFa/cpp/Masha/bunker/cmake-build-debug/CMakeFiles/bunker.dir
+E:/universe/INFa/cpp/Masha/bunker/cmake-build-debug/CMakeFiles/rebuild_cache.dir

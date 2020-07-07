@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/universe/INFa/cpp/Masha/bunker/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+cstdlib
+-
+ctime
+-
+cmath
+-
+
